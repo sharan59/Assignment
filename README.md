@@ -7,7 +7,7 @@ Step : 2
 start MongoDB server
 
 step : 3
-Type node app.js to lauch the application the server
+Type node app.js to lauch the application in the server
 
 Step : 4
 Then open Postman and enter the url http://localhost:3000/register and place keys and values in x-www-form-urlencoded.
